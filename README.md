@@ -19,4 +19,4 @@ This project simulates a small business network using Cisco Packet Tracer. The n
 ## 👤 Author
 Mahinour Ayman  
 Computer Science Undergraduate  
-[LinkedIn Profile](https://www.linkedin.com/in/mahinourayman-211a88365)
+[LinkedIn Profile](www.linkedin.com/in/mahinour-ayman-211a88365)
